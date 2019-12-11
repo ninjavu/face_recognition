@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+face_recognition
+*.csv
+.DS_Store
